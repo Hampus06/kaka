@@ -52,7 +52,7 @@ Finns det något problem med t.ex namn på maträtter?
 
 ## Upphovsrätt o GDPR
 
-### Upphosvrättten
+### Upphovsrättten
 
 Text
 
