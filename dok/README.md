@@ -54,11 +54,11 @@ Finns det något problem med t.ex namn på maträtter?
 
 ### Upphovsrättten
 
-Text
+Text... Hur har jag tänkt? Vad innebär upphovsrätten?
 
 ### GDPR
 
-Text
+Text... Hur har jag tänkt? Vad innebär GDPR?
 
 ## Säkerhet med tredjepartskod
 
