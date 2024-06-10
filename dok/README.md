@@ -6,7 +6,7 @@ Text
 
 ## Testning
 
-### Desktop vs. Mobile
+### Desktop vs. Mobile (responsivitet)
 
 Text
 
