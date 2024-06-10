@@ -28,6 +28,18 @@ Text
 
 ## Arbetat med riktlinjerna
 
+- [ ] Skriv beskrivande rubriker och ledtexter
+- [ ] Var konsekvent i navigation
+- [ ] Ange sidans språk i koden
+- [ ] Använd tillräckliga kontraster i komponenter och grafik
+- [ ] Använd text, inte bilder av text, för att visa text
+- [ ] Skriv tydliga länkar
+- [ ] Se till att text går att förstora
+- [ ] Skriv beskrivande sidtitlar
+- [ ] Skapa en flexibel layout som fungerar vid förstoring eller på liten skärm
+- [ ] Ge webbplatsen en god läsbarhet
+- [ ] Se till att koden validerar
+
 Text
 
 ## Teckekodning
